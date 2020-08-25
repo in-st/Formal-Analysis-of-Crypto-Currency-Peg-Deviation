@@ -1,1 +1,1 @@
-# in-st-Formal-Analysis-of-Crypto-Currency-Peg-Deviation
+# inst Formal Analysis of Crypto Currency Peg Deviation
