@@ -1,9 +1,10 @@
-% -----------------------------------------------------------------------------------------
-%   STEP I: Sample B from p(B|y,A,Sigma,V)
-% -----------------------------------------------------------------------------------------
+%% This code produces beta draws.
+% This code is based on "Estimating overidentified, non-recursive, time varying coefficients structural VARs"... 
+% ...by Fabio Canova and Fernando J. Pérez Forero (Quantitative Economics, Volume 6, Issue 2 (July 2015)).
+% Modified by
+% Huachen Li
 
-% Btdrawc is a draw of the mean VAR coefficients, B(t)
-    [Btdrawc,log_lik] = carter_kohn1(y,Z,Ht,Qdraw,K,M,t,B_0_prmean,B_0_prvar,ones(t,1));    
+    [Btdrawc,log_lik] = carter_kohn1beta(y,Z,Ht,Qdraw,K,M,t,B_0_prmean,B_0_prvar,ones(t,1),cc);    
         
     switch(stat)
         case 1   % Accept draw
