@@ -1,0 +1,30 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Canova and Perez~Forero}{2015}]{cfp}
+Canova, F. and Perez~Forero, F.~J. (2015).
+\newblock Estimating overidentified, nonrecursive, time‐varying coefficients
+  structural vector autoregressions.
+\newblock {\em Quantitative Economics}, 6:359--384.
+
+\bibitem[\protect\astroncite{Kim et~al.}{1998}]{kim}
+Kim, S., Shephard, N., and Chib, S. (1998).
+\newblock Stochastic volatility: Likelihood inference and comparison with arch
+  models.
+\newblock {\em The Review of Economic Studies}, 65:361--393.
+
+\bibitem[\protect\astroncite{Lyons and Viswanath-Natraj}{2020}]{lyons}
+Lyons, R.~K. and Viswanath-Natraj, G. (2020).
+\newblock What keeps stablecoins stable?
+\newblock {\em Working Paper}.
+
+\bibitem[\protect\astroncite{Primiceri}{2005}]{primiceri}
+Primiceri, G.~E. (2005).
+\newblock Time varying structural vector autoregressions and monetary policy.
+\newblock {\em The Review of Economic Studies}, 72:821--852.
+
+\bibitem[\protect\astroncite{Wei}{2018}]{wei}
+Wei, W.~C. (2018).
+\newblock The impact of tether grants on bitcoin.
+\newblock {\em Economics Letters}, 171:19--22.
+
+\end{thebibliography}
